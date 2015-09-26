@@ -1,10 +1,26 @@
 [
     {
-        "author": "Pete Hunt",
-        "text": "Hey there!"
+        "author": "Juuso",
+        "text": "**Eka** kommentti!"
     },
     {
-        "author": "Paul O’Shannessy",
-        "text": "React is *great*!"
+        "author": "Pilvi",
+        "text": "*Toka kommentti*"
+    },
+    {
+        "author": "React Master",
+        "text": "ebin reactiveness"
+    },
+    {
+        "author": "ebin",
+        "text": "palalaaplapal"
+    },
+    {
+        "author": "test",
+        "text": "test"
+    },
+    {
+        "author": "err",
+        "text": "mahgerd"
     }
 ]
